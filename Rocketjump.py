@@ -1,3 +1,4 @@
+#Мой первый коммит
 from pygame import *
 from random import randint
 class GameSprite(sprite.Sprite):
