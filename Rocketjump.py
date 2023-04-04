@@ -1,3 +1,5 @@
+#Мой первый коммит
+#Мой второй коммит
 from pygame import *
 from random import randint
 class GameSprite(sprite.Sprite):
