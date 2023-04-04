@@ -1,5 +1,6 @@
 #Мой первый коммит
 #Мой второй коммит
+#Это коммит в ветку DEV1
 from pygame import *
 from random import randint
 class GameSprite(sprite.Sprite):
